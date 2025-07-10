@@ -47,17 +47,8 @@ Data Visualization:
 - Local web interface (TCP/IP)
 - Cloud monitoring via ThingSpeak
 
-SafeSense/
-├── src/                         # Main source code
-│   ├── finalized_code_project_b_version_1.cpp  # Primary firmware
-│   ├── MAX30105_BPM_Sensor.cpp  # Heart rate sensor module
-│   ├── Grove_GSR_Sensor.cpp     # GSR sensor module
-│   └── neo6m.cpp                # GPS module
-├── docs/                        # Documentation
-│   └── Project_B_Report.docx    # Complete project report
-└── platformio.ini               # Build configuration
-
 Installation & Setup
+
 Prerequisites
 
 - Arduino IDE or PlatformIO (VS Code extension)
