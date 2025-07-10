@@ -1,0 +1,1 @@
+# Prototype-development-of-a-security-features-based-SafeSense-smart-bracelet
